@@ -1,0 +1,19 @@
+.hidden{
+  display:none;
+}
+.search-box input{
+  width:600px;
+}
+.image-wrapper{
+  display:flex;
+  flex-wrap:wrap;
+}
+.design{
+   margin-left:auto;
+  margin-right:auto;
+  margin-top:60px;
+}
+.design img{
+  width:500px;
+  height:auto;
+}
